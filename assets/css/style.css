@@ -15,8 +15,21 @@ body {
 .header {
   font-family: 'Amatic SC', cursive;
   padding: 2rem;
-  text-align: center;
-  background: var(--secondary-bg-color);
+  /* background: var(--secondary-bg-color); */
+}
+.header h1 {
   color: var(--secondary-txt-color);
-  font-size: 2rem;
+  font-size: 4rem;
+  text-align: center;
+  line-height: 50%;
+}
+.header hr {
+  width: 75%;
+  border: 0 none;
+  height: .25rem;
+  border-radius: 5px;
+  background-color: var(--secondary-txt-color);
+}
+.navbar {
+  
 }
