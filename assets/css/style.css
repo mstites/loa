@@ -1,0 +1,22 @@
+:root {
+  --main-bg-color: #faf9f9;
+  --secondary-bg-color: #bee3db;
+  --bold-bg-color: #9d8189;
+  --main-txt-color: #4C424C;
+  --secondary-txt-color: #632b63;
+}
+body {
+  font-family: 'Nunito', sans-serif;
+  margin:0em;
+  padding:0em 0em 0em 0em;
+  background-color: var(--main-bg-color);
+  color: var(--main-txt-color);
+}
+.header {
+  font-family: 'Amatic SC', cursive;
+  padding: 2rem;
+  text-align: center;
+  background: var(--secondary-bg-color);
+  color: var(--secondary-txt-color);
+  font-size: 2rem;
+}
