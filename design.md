@@ -14,4 +14,6 @@ Rough layout of webpage
 * Documentation & Updates -> Daily log, newsletter
 * About
 * Contact w/ contact form
-* 
+## Colors
+* Beigish background?
+* Purle ish hues 
