@@ -100,6 +100,10 @@ h6 {
   font-weight: 700;
   /* font-style: italic; */
 }
+.navbar li a:hover:not(.active) {
+  color: var(--secondary-txt-color);
+  font-weight: 600;
+}
 
 /* CONTAINERS */
 .container {
