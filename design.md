@@ -4,6 +4,7 @@ Rough layout of webpage
 * Refine color Design
 * Favicon
 * Carasel
+* content warning?
 ### Page flushouts
 * About Page
 * Semester plan notes on home page
