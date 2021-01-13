@@ -6,6 +6,9 @@
   --light-txt-color: #f0efeb;
 }
 /* GENERAL */
+html {
+  font-size: 110%;
+}
 body {
   font-family: 'Nunito', sans-serif;
   margin:0em;
@@ -91,8 +94,8 @@ h6 {
 .container {
   margin-left: auto;
   margin-right: auto;
-  width: 730%;
-  max-width: 50em;
+  width: 70%;
+  max-width: 50rem;
   padding: 1rem 1.25rem 1rem 1.875rem;
 }
 
