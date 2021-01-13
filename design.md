@@ -1,12 +1,10 @@
 # Design
 Rough layout of webpage
 ## To do:
-* Refine color Design
 * Favicon
-* Carasel
-* content warning?
+* Spell check
 ### Page flushouts
-* About Page
+* Data plan <- documentation
 * Semester plan notes on home page
 * Documentation Page (daily log, newsletter)
 * Contact
