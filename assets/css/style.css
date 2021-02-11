@@ -1,5 +1,5 @@
 :root {
-  --main-bg-color: #faf9f9;
+  --main-bg-color: #f2f0f0;
   --secondary-bg-color: #bee3db;
   --main-txt-color: #4C424C;
   --secondary-txt-color: #843984;
@@ -183,6 +183,7 @@ h6 {
   color: var(--secondary-txt-color);
 }
 
+/* CAROUSEL */
 .carousel-caption p{
   font-weight: bold;
   font-size: 1.2em;
