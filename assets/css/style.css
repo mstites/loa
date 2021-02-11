@@ -55,26 +55,26 @@ h6 {
 }
 /* HEADER */
 .header {
-  padding-top: 2rem;
+  padding-top: 4rem;
   padding-bottom: 1rem;
 }
 .header h1 {
   /* font-family: 'Permanent Marker', cursive; */
   font-family: 'Cabin Sketch', cursive;
   color: var(--secondary-txt-color);
-  font-size: 3.5rem;
+  font-size: 3.75rem;
   text-align: center;
   line-height: 50%;
   font-weight: 400;
-  padding-bottom: .5rem;
+  padding-bottom: 2rem;
 }
 .header hr {
-  width: 60%;
+  width: 80%;
   max-width: 800px;
   border: 0 none;
-  height: .20rem;
+  height: .15rem;
   border-radius: 5px;
-  background-color: var(--secondary-txt-color);
+  background-color: var(--main-txt-color);
 }
 /* NAVBAR */
 .navbar {
