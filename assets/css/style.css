@@ -52,6 +52,30 @@ h6 {
   font-size: 1rem;
   font-family: 'Libre Baskerville', serif;
 }
+
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  max-height: 50vh;
+  max-width: 70%;
+  width: auto;
+}
+
+.imageCap img{
+  max-height: 30vh;
+}
+
+.imageCap p{
+  padding-top: .1rem;
+  text-align: center;
+}
+
+.large img{
+  max-width: 90%;
+  max-height: 50vh;
+}
+
 /* HEADER */
 .header {
   padding-top: 4rem;
