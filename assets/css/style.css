@@ -78,7 +78,7 @@ h6 {
 .navbar {
   width: 100%;
   height: 2.875em;
-  font-size: .9rem;
+  font-size: .8rem;
 }
 .navbar ul {
   margin: auto;
@@ -93,12 +93,12 @@ h6 {
   display: inline-block;
   color: var(--main-txt-color);
   text-align: center;
-  padding: 0em 2.25rem 0 0rem;
+  padding: 0em 2rem 0 0rem;
   font-weight: 400;
   font-style: italic;
 }
 .navbar li a.active {
-  font-weight: 700;
+  font-weight: 600;
   /* font-style: italic; */
 }
 .navbar li a:hover:not(.active) {
