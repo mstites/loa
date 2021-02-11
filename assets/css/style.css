@@ -180,3 +180,13 @@ h6 {
   font-family: 'Nunito', sans-serif;
   color: var(--secondary-txt-color);
 }
+
+.carousel-caption p{
+  font-weight: bold;
+  font-size: 1.2em;
+  /* text-shadow:
+  -1px -1px 0 var(--secondary-txt-color),
+  1px -1px 0 var(--secondary-txt-color),
+  -1px 1px 0 var(--secondary-txt-color),
+  1px 1px 0 var(--secondary-txt-color); */
+}

@@ -8,3 +8,4 @@ Rough layout of webpage
 * Semester plan notes on home page
 * Documentation Page (daily log, newsletter)
 * Contact
+LOA. Data policy, sharing policy everything open source 
