@@ -148,6 +148,7 @@ img {
   overflow: hidden;
   display: table;
   margin: auto;
+  width: 19.2rem; /* Should change based on li a padding */
 }
 
 .footer li {
@@ -156,8 +157,8 @@ img {
 
 .footer li a {
   text-align: center;
-  padding-right: 1em;
-  padding-left: 1em;
+  padding-right: 2em;
+  padding-left: 2em;
 }
 /*SUBSCRIPTION*/
 .subscribe form {
