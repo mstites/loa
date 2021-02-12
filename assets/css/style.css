@@ -12,6 +12,7 @@ body {
   padding:0em 0em 0em 0em;
   background-color: var(--main-bg-color);
   color: var(--main-txt-color);
+  font-size: .75rem;
 }
 a {
   text-decoration: none;
