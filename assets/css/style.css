@@ -207,6 +207,14 @@ img {
 }
 
 /* CAROUSEL */
+#carousel { /* CONTAINER */
+  max-width: 40rem;
+}
+
+#carousel img {
+  max-height: none;
+}
+
 .carousel-caption p{
   font-weight: bold;
   font-size: 1.2em;
