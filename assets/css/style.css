@@ -51,7 +51,6 @@ h6 {
   font-size: 1rem;
   font-family: 'Libre Baskerville', serif;
 }
-
 img {
   display: block;
   margin-left: auto;
@@ -61,6 +60,14 @@ img {
   width: auto;
 }
 
+/* CONTAINER FORMATTING */
+.subtitle {
+  padding-bottom: 2rem;
+}
+.subtitle h1 {
+  font-size: 1.8rem;
+  text-align: center;
+}
 .imageCap img{
   max-height: 30vh;
 }
