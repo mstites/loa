@@ -290,4 +290,20 @@ img {
     padding-top: 1rem;
     padding-bottom: 1rem;
   }
+  /*SUBSCRIPTION*/
+  .subscribe form #tlemail {
+    height: 3rem;
+    width: 70%;
+    padding-top: .75rem;
+    padding-bottom: 0rem;
+  }
+  .subscribe form hr {
+    width: 70%;
+    margin-top: -.25rem;
+    margin-bottom: 1.5rem;
+  }
+  .subscribe form #submit {
+    height: 3rem;
+    width: 70%;
+  }
 }
